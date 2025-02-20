@@ -94,6 +94,7 @@ The app will be available at [http://localhost:3000](http://localhost:3000). You
     ```
 
 - **Response**:
+
     **Success**:
 
     ```json
@@ -120,6 +121,7 @@ The app will be available at [http://localhost:3000](http://localhost:3000). You
 - **URL**: `/users`
 - **Method**: `GET`
 - **Response**:
+
     **Success**:
 
     ```json
@@ -144,6 +146,7 @@ The app will be available at [http://localhost:3000](http://localhost:3000). You
 - **URL**: `/users/:username`
 - **Method**: GET
 - **Response**:
+
     **Success**:
 
     ```json
@@ -179,6 +182,7 @@ The app will be available at [http://localhost:3000](http://localhost:3000). You
     ```
 
 - **Response**:
+
     **Success**:
 
     ```json
@@ -202,6 +206,7 @@ The app will be available at [http://localhost:3000](http://localhost:3000). You
 - **URL**: `/users/:username`
 - **Method**: `DELETE`
 - **Response**:
+
     **Success**:
 
     ```json
