@@ -38,9 +38,6 @@ Run the following command to start the app:
 npm start
 ```
 
-The server will start running at [http://localhost:3000](http://localhost:3000)
-You can also get Swagger docs at [http://localhost:3000/docs](http://localhost:3000/docs)
-
 The app will be available at [http://localhost:3000](http://localhost:3000). You can access the API docs at [http://localhost:3000/docs](http://localhost:3000/docs).
 
 ## API Endpoints
